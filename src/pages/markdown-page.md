@@ -1,7 +1,14 @@
 ---
-title: Markdown page example
+title: let you know the rules
 ---
 
-# Markdown page example
+#let you know the rules
 
-You don't need React to write simple standalone pages.
+
+I just wanna tell you how I'm feeling
+
+
+Gotta make you understand
+
+
+Don't tell me you're too blind to see
